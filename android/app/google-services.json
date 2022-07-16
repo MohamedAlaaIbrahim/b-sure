@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "906104146705",
+    "project_id": "b-sure-80b59",
+    "storage_bucket": "b-sure-80b59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906104146705:android:d7e92e6c1b3e079b649ab0",
+        "android_client_info": {
+          "package_name": "com.example.b_sure"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906104146705-me9foqo2qnue93ksfdqmhd8tca6d2lmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWEkbnI1Yh74oiMzMiaX5XJGL-C44o0E4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906104146705-me9foqo2qnue93ksfdqmhd8tca6d2lmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
